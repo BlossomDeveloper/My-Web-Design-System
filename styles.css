@@ -1,0 +1,145 @@
+html {
+    font-family: 'Josefin Sans', sans-serif;
+    padding: 40px;
+}
+body {
+    box-sizing: border-box;
+}
+header {
+    padding-bottom: 10px;
+}
+
+.blocks {
+    border: 3px solid gray;
+    border-radius: 10px;
+    margin: 20px 0px;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: nowrap;
+}
+
+h2 {
+    margin: 15px 20px;
+    font-weight: 500;
+    font-family: 'Josefin Sans', sans-serif;
+    font-size: 24px;
+}
+.colors {
+    margin: 15px 20px;
+}
+
+.color1 {
+    background-color: #64113F;
+    color: #ffffff;
+}
+
+.color2 {
+    background-color: #DE4D86;
+    color: #ffffff;
+}
+
+.color3 {
+    background-color: #F29CA3;
+    color: #ffffff;
+}
+
+.color4 {
+    background-color: #F7CACD;
+    color: #ffffff;
+}
+
+.color5 {
+    background-color: #84E6F8;
+    color: #ffffff;
+}
+
+h4 {
+    text-align: center;
+    padding: 10px;
+    margin: -5px;
+    font-size: 20px;
+}
+
+.fonts {
+    margin: 15px 20px;
+}
+
+.font1 {
+    font-family: 'Kalnia', sans-serif;
+    font-size: 24px;
+}
+
+.normal1 {
+    font-family: 'Kalnia', sans-serif;
+    font-weight: 400;
+}
+
+.medium1{
+    font-family: 'Kalnia', sans-serif;
+    font-weight: 500;
+}
+
+.bold1 {
+    font-family: 'Kalnia', sans-serif;
+    font-weight: 700;
+}
+
+.font2 {
+    font-family: 'Josefin Sans', sans-serif;
+    font-size: 24px;
+}
+
+.normal2 {
+    font-family: 'Josefin Sans', sans-serif;
+    font-weight: 400;
+}
+
+.italic2 {
+    font-family: 'Josefin Sans', sans-serif;
+    font-weight:400;
+    font-style: italic;
+}
+
+.bold2 {
+    font-family: 'Josefin Sans', sans-serif;
+    font-weight: 700;
+}
+
+.font3 {
+    font-family: 'Sarabun', sans-serif;
+    font-size: 24px;
+}
+
+.normal3 {
+    font-family: 'Sarabun', sans-serif;
+    font-weight: 400;
+}
+
+.italic3 {
+    font-family: 'Sarabun', sans-serif;
+    font-weight: 400;
+    font-style: italic;
+}
+
+.bold3 {
+    font-family: 'Sarabun', sans-serif;
+    font-weight: 700;
+}
+
+h1 {
+    margin: 15px 20px;
+    font-family: 'Kalnia', sans-serif;
+    font-size: 32px;
+    font-weight: 700;
+}
+
+p {
+    margin: 15px 20px;
+    font-family: 'Josefin Sans', sans-serif;
+    font-size: 18px;
+    font-weight: 400;
+}
+
+li {
+    line-height: 30px;
+}
